@@ -1,0 +1,9 @@
+
+{
+  "cid": "bafybeidn54g...d64b",
+  "timestamp": "2025-07-18T14:00:00Z",
+  "event": "Stablecoin Mint",
+  "agent": "AgentPayX",
+  "proof": "0xabc123...",
+  "user": "0xUserWallet"
+}

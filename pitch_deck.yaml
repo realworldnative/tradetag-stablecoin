@@ -1,0 +1,10 @@
+
+sections:
+  - id: tradetag_pitch_deck
+    title: "🚀 TradeTag Stablecoin Pitch Deck"
+    layout: "accordion"
+    items:
+      - title: "1. Vision"
+        description: >
+          💡 **“Every dollar with a story. Every transaction with a soul.”**
+          TradeTag is the first stablecoin to embed a memory layer — programmable, auditable, and compliance-native.
